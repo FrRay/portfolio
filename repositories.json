@@ -1,0 +1,320 @@
+{
+  "updated_at": "2026-11-01T05:01:19.083Z",
+  "repositories": [
+    {
+      "name": "portfolio",
+      "html_url": "https://github.com/FrRay/portfolio",
+      "description": null,
+      "fork": false,
+      "language": "HTML",
+      "stargazers_count": 0,
+      "updated_at": "2026-11-01T04:52:07Z"
+    },
+    {
+      "name": "BiliLens",
+      "html_url": "https://github.com/FrRay/BiliLens",
+      "description": "A Tampermonkey userscript that adds an AI-powered summary button to Bilibili video pages — auto subtitle extraction, streaming markdown output, native toolbar integration, zero dependencies.",
+      "fork": false,
+      "language": "JavaScript",
+      "stargazers_count": 6,
+      "updated_at": "2026-11-01T01:58:52Z"
+    },
+    {
+      "name": "AudioPlaybackConnector-Win11",
+      "html_url": "https://github.com/FrRay/AudioPlaybackConnector-Win11",
+      "description": "Windows 10/11 Bluetooth A2DP Sink app - stream Android phone audio to your PC with a Windows 11-style UI.",
+      "fork": true,
+      "language": null,
+      "stargazers_count": 0,
+      "updated_at": "2026-10-31T05:09:27Z"
+    },
+    {
+      "name": "design-card",
+      "html_url": "https://github.com/FrRay/design-card",
+      "description": "将任意文本、网页或 URL 生成 HTML 信息卡片，通过 Playwright 截图为 PNG。支持 **14 种格式** × **6 种可插拔设计风格**，覆盖平台封面、图文内容卡、社交分享卡、长文编辑排版四大场景。",
+      "fork": false,
+      "language": "TypeScript",
+      "stargazers_count": 1,
+      "updated_at": "2026-09-20T11:25:58Z"
+    },
+    {
+      "name": "WallhavenWallpaper",
+      "html_url": "https://github.com/FrRay/WallhavenWallpaper",
+      "description": "Tiny PowerShell wallpaper changer for Wallhaven — zero deps, SFW only, no API key.",
+      "fork": false,
+      "language": "PowerShell",
+      "stargazers_count": 0,
+      "updated_at": "2026-08-10T10:36:02Z"
+    },
+    {
+      "name": "OpenCourse",
+      "html_url": "https://github.com/FrRay/OpenCourse",
+      "description": null,
+      "fork": true,
+      "language": null,
+      "stargazers_count": 0,
+      "updated_at": "2026-07-13T03:51:14Z"
+    },
+    {
+      "name": "paper-assistant-axioms",
+      "html_url": "https://github.com/FrRay/paper-assistant-axioms",
+      "description": "Paper Assistant Axioms - gives your AI research discipline. stops it from turning papers into vague, unsupported summaries.",
+      "fork": false,
+      "language": "Shell",
+      "stargazers_count": 1,
+      "updated_at": "2026-07-02T06:10:51Z"
+    },
+    {
+      "name": "xiaomi_pad_system_patch_additional_module",
+      "html_url": "https://github.com/FrRay/xiaomi_pad_system_patch_additional_module",
+      "description": null,
+      "fork": true,
+      "language": null,
+      "stargazers_count": 0,
+      "updated_at": "2026-07-01T13:50:29Z"
+    },
+    {
+      "name": "ranran_wanji",
+      "html_url": "https://github.com/FrRay/ranran_wanji",
+      "description": "ci cd gitee",
+      "fork": true,
+      "language": null,
+      "stargazers_count": 0,
+      "updated_at": "2026-06-29T05:52:54Z"
+    },
+    {
+      "name": "yifa",
+      "html_url": "https://github.com/FrRay/yifa",
+      "description": null,
+      "fork": false,
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "updated_at": "2026-06-16T05:16:28Z"
+    },
+    {
+      "name": "WorldCup2026-Predictor",
+      "html_url": "https://github.com/FrRay/WorldCup2026-Predictor",
+      "description": "预测 2026 FIFA 世界杯。48 队、528 名真实球员，从小组赛打到决赛。自己填比分，或者让引擎随机生成。最后导出一张带可扫描二维码的香槟金分享海报。",
+      "fork": true,
+      "language": "HTML",
+      "stargazers_count": 0,
+      "updated_at": "2026-06-15T09:57:14Z"
+    },
+    {
+      "name": "web-content-edit-and-blur--browser-extension",
+      "html_url": "https://github.com/FrRay/web-content-edit-and-blur--browser-extension",
+      "description": "fix: 编辑模式失效. A simple browser extension to edit and blur web content.",
+      "fork": true,
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "updated_at": "2026-06-08T10:44:29Z"
+    },
+    {
+      "name": "claude-code-bash-permission-dialog-hook",
+      "html_url": "https://github.com/FrRay/claude-code-bash-permission-dialog-hook",
+      "description": null,
+      "fork": false,
+      "language": "Python",
+      "stargazers_count": 0,
+      "updated_at": "2026-05-20T06:53:50Z"
+    },
+    {
+      "name": "agent-order-api-challenge-py",
+      "html_url": "https://github.com/FrRay/agent-order-api-challenge-py",
+      "description": null,
+      "fork": false,
+      "language": "Python",
+      "stargazers_count": 0,
+      "updated_at": "2026-05-09T07:17:11Z"
+    },
+    {
+      "name": "agent-order-api-challenge",
+      "html_url": "https://github.com/FrRay/agent-order-api-challenge",
+      "description": null,
+      "fork": false,
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "updated_at": "2026-05-09T04:26:20Z"
+    },
+    {
+      "name": "claw-code",
+      "html_url": "https://github.com/FrRay/claw-code",
+      "description": "Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things done. Now rewriting in Rust.",
+      "fork": true,
+      "language": null,
+      "stargazers_count": 0,
+      "updated_at": "2026-04-02T00:43:14Z"
+    },
+    {
+      "name": "Community_Management_System",
+      "html_url": "https://github.com/FrRay/Community_Management_System",
+      "description": null,
+      "fork": true,
+      "language": "Vue",
+      "stargazers_count": 0,
+      "updated_at": "2025-09-25T06:09:42Z"
+    },
+    {
+      "name": "SrunClient",
+      "html_url": "https://github.com/FrRay/SrunClient",
+      "description": null,
+      "fork": true,
+      "language": "Python",
+      "stargazers_count": 0,
+      "updated_at": "2025-09-25T06:07:25Z"
+    },
+    {
+      "name": "FrRay",
+      "html_url": "https://github.com/FrRay/FrRay",
+      "description": null,
+      "fork": false,
+      "language": null,
+      "stargazers_count": 0,
+      "updated_at": "2025-09-25T06:00:33Z"
+    },
+    {
+      "name": "daily-coding",
+      "html_url": "https://github.com/FrRay/daily-coding",
+      "description": "Daily records of solving algorithm problems from platforms like LeetCode and Nowcoder. Includes problem analyses, code solutions, and personal notes on optimization ideas. A personal journey to improve coding skills and algorithmic thinking.",
+      "fork": false,
+      "language": null,
+      "stargazers_count": 0,
+      "updated_at": "2025-08-08T06:27:52Z"
+    },
+    {
+      "name": "RecBole_Prim",
+      "html_url": "https://github.com/FrRay/RecBole_Prim",
+      "description": "A unified, comprehensive and efficient recommendation library",
+      "fork": true,
+      "language": "Python",
+      "stargazers_count": 0,
+      "updated_at": "2025-07-31T14:09:46Z"
+    },
+    {
+      "name": "M2ReC",
+      "html_url": "https://github.com/FrRay/M2ReC",
+      "description": null,
+      "fork": false,
+      "language": null,
+      "stargazers_count": 0,
+      "updated_at": "2025-06-27T08:47:44Z"
+    },
+    {
+      "name": "MaTrRec",
+      "html_url": "https://github.com/FrRay/MaTrRec",
+      "description": null,
+      "fork": true,
+      "language": null,
+      "stargazers_count": 0,
+      "updated_at": "2025-06-10T05:01:23Z"
+    },
+    {
+      "name": "Integrated-Sentimental-Analysis-with-BERT-for-enhanced-hybrid-recommendation-systems",
+      "html_url": "https://github.com/FrRay/Integrated-Sentimental-Analysis-with-BERT-for-enhanced-hybrid-recommendation-systems",
+      "description": null,
+      "fork": true,
+      "language": "Jupyter Notebook",
+      "stargazers_count": 0,
+      "updated_at": "2025-05-22T02:07:12Z"
+    },
+    {
+      "name": "PTF-FSR",
+      "html_url": "https://github.com/FrRay/PTF-FSR",
+      "description": "This is the implementation of our paper \"PTF-FedSeqRec: A Parameter Transmission-Free Federated Sequential Recommender System\"",
+      "fork": true,
+      "language": null,
+      "stargazers_count": 0,
+      "updated_at": "2025-05-14T10:18:26Z"
+    },
+    {
+      "name": "PyWxDump",
+      "html_url": "https://github.com/FrRay/PyWxDump",
+      "description": "获取微信信息；读取数据库，本地查看聊天记录并导出为csv、html等格式用于AI训练，自动回复等。支持多账户信息获取，支持所有微信版本。",
+      "fork": true,
+      "language": null,
+      "stargazers_count": 0,
+      "updated_at": "2025-05-12T16:49:36Z"
+    },
+    {
+      "name": "WeClone",
+      "html_url": "https://github.com/FrRay/WeClone",
+      "description": "欢迎star⭐。🚀从聊天记录创造数字分身的一站式解决方案💡 使用微信聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。  数字克隆/数字分身/数字永生/声音克隆/LLM/大语言模型/微信聊天机器人/LoRA",
+      "fork": true,
+      "language": null,
+      "stargazers_count": 0,
+      "updated_at": "2025-05-12T16:48:28Z"
+    },
+    {
+      "name": "Virginia",
+      "html_url": "https://github.com/FrRay/Virginia",
+      "description": "Virginia加密",
+      "fork": false,
+      "language": "C++",
+      "stargazers_count": 0,
+      "updated_at": "2025-04-23T05:02:09Z"
+    },
+    {
+      "name": "boos-helper",
+      "html_url": "https://github.com/FrRay/boos-helper",
+      "description": "Boss直聘助手-优化UI去除广告,批量投递简历,高级筛选,GPT自动打招呼,多账号管理...",
+      "fork": true,
+      "language": null,
+      "stargazers_count": 0,
+      "updated_at": "2025-04-11T14:46:43Z"
+    },
+    {
+      "name": "CSDNGreener",
+      "html_url": "https://github.com/FrRay/CSDNGreener",
+      "description": "《专 业 团 队》🕺🏿 🕺🏿 🕺🏿 🕺🏿 ⚰️🕺🏿 🕺🏿 🕺🏿 🕺🏿 | 专治 CSDN 广告与各种灵魂打击 | 🐵 油猴脚本 | TamperMonkey | Chrome | FireFox | CSDN 页面浮窗广告完全过滤净化 | 国服最强 CSDN 绿化脚本",
+      "fork": true,
+      "language": null,
+      "stargazers_count": 0,
+      "updated_at": "2025-04-09T08:53:43Z"
+    },
+    {
+      "name": "aust-wifi-login",
+      "html_url": "https://github.com/FrRay/aust-wifi-login",
+      "description": "安徽理工大学学生端wifi网关认证",
+      "fork": false,
+      "language": "Python",
+      "stargazers_count": 0,
+      "updated_at": "2025-03-31T09:50:29Z"
+    },
+    {
+      "name": "hello",
+      "html_url": "https://github.com/FrRay/hello",
+      "description": null,
+      "fork": false,
+      "language": "Go",
+      "stargazers_count": 0,
+      "updated_at": "2024-08-15T06:52:08Z"
+    },
+    {
+      "name": "Mys_Goods_Tool",
+      "html_url": "https://github.com/FrRay/Mys_Goods_Tool",
+      "description": "米游社商品兑换工具 | 短信验证登录 | 终端图形界面",
+      "fork": true,
+      "language": null,
+      "stargazers_count": 0,
+      "updated_at": "2024-07-26T07:41:08Z"
+    },
+    {
+      "name": "SimpleTranslation",
+      "html_url": "https://github.com/FrRay/SimpleTranslation",
+      "description": null,
+      "fork": false,
+      "language": "Python",
+      "stargazers_count": 0,
+      "updated_at": "2023-04-05T04:13:53Z"
+    },
+    {
+      "name": "FrRay.github.io",
+      "html_url": "https://github.com/FrRay/FrRay.github.io",
+      "description": null,
+      "fork": false,
+      "language": "HTML",
+      "stargazers_count": 0,
+      "updated_at": "2022-12-02T14:04:27Z"
+    }
+  ]
+}

@@ -24,3 +24,7 @@ python -m http.server 8000
 - 在 `app.js` 顶部修改 `GITHUB_USER` 可更换数据来源；页面中个人资料链接、头像和文案位于 `index.html`，更换账号时也需一并更新。
 - 页面使用浏览器直接请求 GitHub 的公开 API，不需要令牌。GitHub 对未认证请求有速率限制；触发限制或网络不可用时，页面会显示重试入口和 GitHub 链接。
 - 仓库新增、修改或删除后，刷新页面即可获取最新数据。包含 fork，不包含私有仓库。
+
+## 仓库数据与备用快照
+
+页面优先请求 GitHub 公开 API。若访问受限或网络不可用，会显示随网站发布的 `repositories.json` 快照及其更新时间，搜索和语言筛选仍可使用。GitHub Actions 每天 UTC 02:17（北京时间 10:17）获取公开仓库并提交新快照，也可在仓库 Actions 中手动运行 **Update public repository snapshot**。工作流只保存公开仓库；需要允许 Actions 写入仓库。Cloudflare 的 Git 集成需要在快照提交后重新部署，网站上的快照才会更新。实时 API 成功时仍显示实时结果。
