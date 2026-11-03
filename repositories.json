@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T09:37:56.606Z",
+  "updated_at": "2026-11-03T09:40:32.833Z",
   "repositories": [
     {
       "name": "BiliLens",
@@ -7,8 +7,8 @@
       "description": "A Tampermonkey userscript that adds an AI-powered summary button to Bilibili video pages — auto subtitle extraction, streaming markdown output, native toolbar integration, zero dependencies.",
       "fork": false,
       "language": "JavaScript",
-      "stargazers_count": 7,
-      "updated_at": "2026-11-01T09:37:08Z"
+      "stargazers_count": 8,
+      "updated_at": "2026-11-02T10:30:23Z"
     },
     {
       "name": "portfolio",
@@ -17,7 +17,7 @@
       "fork": false,
       "language": "JavaScript",
       "stargazers_count": 0,
-      "updated_at": "2026-11-01T05:01:52Z"
+      "updated_at": "2026-11-02T09:38:01Z"
     },
     {
       "name": "AudioPlaybackConnector-Win11",
