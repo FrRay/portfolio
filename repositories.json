@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-11-09T09:54:32.553Z",
+  "updated_at": "2026-11-10T09:58:17.471Z",
   "repositories": [
+    {
+      "name": "BiliLens",
+      "html_url": "https://github.com/FrRay/BiliLens",
+      "description": "A Tampermonkey userscript that adds an AI-powered summary button to Bilibili video pages — auto subtitle extraction, streaming markdown output, native toolbar integration, zero dependencies.",
+      "fork": false,
+      "language": "JavaScript",
+      "stargazers_count": 10,
+      "updated_at": "2026-11-10T03:15:01Z"
+    },
     {
       "name": "portfolio",
       "html_url": "https://github.com/FrRay/portfolio",
@@ -8,16 +17,7 @@
       "fork": false,
       "language": "JavaScript",
       "stargazers_count": 0,
-      "updated_at": "2026-11-08T09:06:46Z"
-    },
-    {
-      "name": "BiliLens",
-      "html_url": "https://github.com/FrRay/BiliLens",
-      "description": "A Tampermonkey userscript that adds an AI-powered summary button to Bilibili video pages — auto subtitle extraction, streaming markdown output, native toolbar integration, zero dependencies.",
-      "fork": false,
-      "language": "JavaScript",
-      "stargazers_count": 9,
-      "updated_at": "2026-11-07T10:05:24Z"
+      "updated_at": "2026-11-09T09:54:37Z"
     },
     {
       "name": "AudioPlaybackConnector-Win11",
