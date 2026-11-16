@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-15T09:34:09.979Z",
+  "updated_at": "2026-11-16T09:52:38.947Z",
   "repositories": [
+    {
+      "name": "tws3e-firmware-lab",
+      "html_url": "https://github.com/FrRay/tws3e-firmware-lab",
+      "description": "「实验性的」解包和修改 vivo TWS 3e 固件的工具，以及整理了 vivo 一些耳机的现成固件，包含固件安装 Apk",
+      "fork": false,
+      "language": "Python",
+      "stargazers_count": 0,
+      "updated_at": "2026-11-16T07:30:58Z"
+    },
+    {
+      "name": "scrphone",
+      "html_url": "https://github.com/FrRay/scrphone",
+      "description": null,
+      "fork": false,
+      "language": "C#",
+      "stargazers_count": 0,
+      "updated_at": "2026-11-16T07:30:16Z"
+    },
+    {
+      "name": "realme-book-enhanced-opencore",
+      "html_url": "https://github.com/FrRay/realme-book-enhanced-opencore",
+      "description": "realme Book 增强版 macOS Sequoia 整机适配 / OpenCore EFI for the realme Book Enhanced Edition",
+      "fork": false,
+      "language": "PowerShell",
+      "stargazers_count": 0,
+      "updated_at": "2026-11-16T07:28:51Z"
+    },
     {
       "name": "portfolio",
       "html_url": "https://github.com/FrRay/portfolio",
