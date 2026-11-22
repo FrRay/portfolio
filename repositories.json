@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-11-21T09:55:45.759Z",
+  "updated_at": "2026-11-22T09:52:59.468Z",
   "repositories": [
+    {
+      "name": "realme-book-enhanced-opencore",
+      "html_url": "https://github.com/FrRay/realme-book-enhanced-opencore",
+      "description": "realme Book 增强版 macOS Sequoia 整机适配 / OpenCore EFI for the realme Book Enhanced Edition",
+      "fork": false,
+      "language": "PowerShell",
+      "stargazers_count": 1,
+      "updated_at": "2026-11-21T17:46:56Z"
+    },
     {
       "name": "BiliLens",
       "html_url": "https://github.com/FrRay/BiliLens",
@@ -27,15 +36,6 @@
       "language": "C#",
       "stargazers_count": 0,
       "updated_at": "2026-11-16T07:30:16Z"
-    },
-    {
-      "name": "realme-book-enhanced-opencore",
-      "html_url": "https://github.com/FrRay/realme-book-enhanced-opencore",
-      "description": "realme Book 增强版 macOS Sequoia 整机适配 / OpenCore EFI for the realme Book Enhanced Edition",
-      "fork": false,
-      "language": "PowerShell",
-      "stargazers_count": 0,
-      "updated_at": "2026-11-16T07:28:51Z"
     },
     {
       "name": "portfolio",
