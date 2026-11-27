@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-11-26T11:00:29.458Z",
+  "updated_at": "2026-11-27T10:58:37.230Z",
   "repositories": [
+    {
+      "name": "tws3e-firmware-lab",
+      "html_url": "https://github.com/FrRay/tws3e-firmware-lab",
+      "description": "「实验性的」解包和修改 vivo TWS 3e 固件的工具，以及整理了 vivo 一些耳机的现成固件，包含固件安装 Apk",
+      "fork": false,
+      "language": "Python",
+      "stargazers_count": 1,
+      "updated_at": "2026-11-26T15:18:34Z"
+    },
     {
       "name": "realme-book-enhanced-opencore",
       "html_url": "https://github.com/FrRay/realme-book-enhanced-opencore",
@@ -18,15 +27,6 @@
       "language": "JavaScript",
       "stargazers_count": 11,
       "updated_at": "2026-11-18T04:45:15Z"
-    },
-    {
-      "name": "tws3e-firmware-lab",
-      "html_url": "https://github.com/FrRay/tws3e-firmware-lab",
-      "description": "「实验性的」解包和修改 vivo TWS 3e 固件的工具，以及整理了 vivo 一些耳机的现成固件，包含固件安装 Apk",
-      "fork": false,
-      "language": "Python",
-      "stargazers_count": 0,
-      "updated_at": "2026-11-16T07:30:58Z"
     },
     {
       "name": "scrphone",
